@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://salman-ads.github.io/Faris/sitemap.xml
